@@ -1,1 +1,1 @@
-Useful git readme
+Updated git readme
